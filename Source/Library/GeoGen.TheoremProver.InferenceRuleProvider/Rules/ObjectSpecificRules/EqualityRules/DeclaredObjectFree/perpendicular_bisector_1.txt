@@ -1,4 +1,7 @@
-﻿Objects:
+# added
+# kite property
+
+Objects:
 
 Theorems:
 
