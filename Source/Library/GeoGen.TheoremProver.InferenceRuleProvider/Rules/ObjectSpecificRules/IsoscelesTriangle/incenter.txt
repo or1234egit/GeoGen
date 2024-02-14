@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# isosceles_incenter
+Objects:
 
  D = Incenter(A, B, C)
 
