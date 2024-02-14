@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follows from definition of concyclic
+Objects:
 
  l = TangentLine(A, B, C)
 
