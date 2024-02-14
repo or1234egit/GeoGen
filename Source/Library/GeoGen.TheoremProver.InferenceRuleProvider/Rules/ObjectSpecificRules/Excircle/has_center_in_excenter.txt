@@ -1,5 +1,5 @@
 # not added
-# follow from excircle construction
+# follow from excenter construction
 Objects:
 
  c = Excircle(A, B, C)
