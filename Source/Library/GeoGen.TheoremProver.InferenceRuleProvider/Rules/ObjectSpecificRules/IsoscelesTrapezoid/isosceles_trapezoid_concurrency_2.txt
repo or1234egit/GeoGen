@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follows from trapezoid_and_concurrent_line
+Objects:
 
  C = IsoscelesTrapezoidPoint(D, A, B)
  l = PerpendicularBisector(A, B)
