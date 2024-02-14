@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follows from nine_points_circle construction
+Objects:
 
 Theorems:
 
