@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# angle_on_diameter
+Objects:
 
 c = CircleWithDiameter(A, B)
 
