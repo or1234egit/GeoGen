@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# isosceles_internal_angle_bisector
+Objects:
 
  l = InternalAngleBisector(A, B, C)
 
