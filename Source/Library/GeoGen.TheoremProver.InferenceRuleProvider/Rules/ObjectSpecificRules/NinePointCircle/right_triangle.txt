@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# nine_points_circle_and_right_triangle
+Objects:
  
  c = NinePointCircle(A, B, C)
 
