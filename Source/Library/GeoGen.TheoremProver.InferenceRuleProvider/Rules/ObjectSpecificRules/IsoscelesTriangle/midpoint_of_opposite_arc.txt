@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# we don't have arcs yet :(
+Objects:
 
 Theorems:
 
