@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# isosceles_trapezoid_distance_to_bases
+Objects:
 
  C = IsoscelesTrapezoidPoint(D, A, B)
 
