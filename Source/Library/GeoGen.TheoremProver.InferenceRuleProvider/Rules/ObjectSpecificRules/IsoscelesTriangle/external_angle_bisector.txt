@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# isosceles_external_angle_bisector
+Objects:
 
  l = ExternalAngleBisector(A, B, C)
 
