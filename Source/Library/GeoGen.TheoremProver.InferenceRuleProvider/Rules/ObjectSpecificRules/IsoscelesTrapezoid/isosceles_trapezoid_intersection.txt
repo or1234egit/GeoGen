@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follows from isosceles_trapezoid_properties
+Objects:
 
  C = IsoscelesTrapezoidPoint(D, A, B)
 
