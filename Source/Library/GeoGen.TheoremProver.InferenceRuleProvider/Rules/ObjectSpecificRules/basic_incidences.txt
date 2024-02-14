@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follow from construcions
+Objects:
 
 Theorems:
 
