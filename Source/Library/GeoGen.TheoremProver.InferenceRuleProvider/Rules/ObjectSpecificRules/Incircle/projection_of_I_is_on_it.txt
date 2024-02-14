@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follows from projection_into_tangent
+Objects:
 
  I = Incenter(A, B, C)
 
