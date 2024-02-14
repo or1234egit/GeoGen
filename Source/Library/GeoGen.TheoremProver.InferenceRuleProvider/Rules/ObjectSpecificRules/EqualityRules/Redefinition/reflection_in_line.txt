@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# we deon't have different predicate from 'line from points'
+Objects:
 
 Theorems:
 
