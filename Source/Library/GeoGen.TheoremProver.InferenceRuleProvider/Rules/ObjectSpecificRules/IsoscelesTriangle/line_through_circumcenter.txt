@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# isosceles_circumcenter
+Objects:
 
  l = LineThroughCircumcenter(A, B, C)
 
