@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# we still does not have arcs
+Objects:
 
 I = Incenter(A, B, C)
 
