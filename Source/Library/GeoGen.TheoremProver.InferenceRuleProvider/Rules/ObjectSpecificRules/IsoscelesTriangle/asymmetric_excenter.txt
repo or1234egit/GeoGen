@@ -1,5 +1,5 @@
 # added
-# isosceles_excenter:
+# isosceles_asymmetric_excenter:
 Objects:
 
  P = Excenter(B, A, C)
