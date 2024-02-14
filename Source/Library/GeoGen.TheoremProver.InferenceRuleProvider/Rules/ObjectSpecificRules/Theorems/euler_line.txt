@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# euler_line_theorem
+Objects:
 
  G = Centroid(A, B, C)
  O = Circumcenter(A, B, C)
