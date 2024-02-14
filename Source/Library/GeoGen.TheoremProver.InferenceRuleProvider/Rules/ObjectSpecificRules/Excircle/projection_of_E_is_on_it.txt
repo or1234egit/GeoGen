@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follows from projection_into_tangent
+Objects:
 
  E = Excenter(A, B, C)
 
