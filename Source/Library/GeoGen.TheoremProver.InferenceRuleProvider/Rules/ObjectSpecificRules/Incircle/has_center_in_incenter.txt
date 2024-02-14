@@ -1,4 +1,6 @@
-﻿Objects:
+# not added
+# follow from excenter construction
+Objects:
 
  c = Incircle(A, B, C)
 
