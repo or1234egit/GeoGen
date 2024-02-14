@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# isosceles_tangent
+Objects:
 
  l = TangentLine(A, B, C)
 
