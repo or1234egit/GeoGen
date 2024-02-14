@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# angle_bisectors_on_same_line
+Objects:
 
  l = ExternalAngleBisector(A, B, C)
 
