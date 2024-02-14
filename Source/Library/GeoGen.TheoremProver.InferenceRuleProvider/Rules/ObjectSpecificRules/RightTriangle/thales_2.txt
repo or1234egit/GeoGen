@@ -1,4 +1,6 @@
-﻿Objects:
+# added
+# circumcenter_and_right_triangle
+Objects:
  
  M = Circumcenter(A, B, C)
 
