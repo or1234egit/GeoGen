@@ -1,4 +1,6 @@
-﻿Objects:
+# added 
+# perpendicular_bisector_definition_1
+Objects:
 
 Theorems:
 
